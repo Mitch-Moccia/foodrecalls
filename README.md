@@ -11,8 +11,6 @@ The Food Recall Dashboard is an interactive tool that allows consumers to quickl
 ## Background
 A multi-disciplinary team was formed to investigate how readily available data and the latest technologies could help the public become more informed about Food Recalls. After conducting user research, the team learned that consumers want a fast and simple means to learn about food product recalls that are pertinent to them. Consumers want to know what are the serious recalls, where are they happening, and who’s responsible.
 
-With an understanding of the core business needs, the team formulated a plan to provide consumers with an information resource about food recalls in a usable and easily consumable format that works on any device.
-
 ## Features
 For the initial Minimal Viable Product (MVP) release of the Food Recall Dashboard, the team provided the following features:
 
@@ -37,7 +35,7 @@ Food Recall Dashboard is an open source project built using modern technologies 
 
 5. **Sketching & Visualization** - The team began sketching and visualization of the user stories to help determine the initial Product Design Concepts. From this session, three concepts were created for consumer review.
 
-6. **Product Design Concept Peer Review** - The team conducted a Peer Review of the three Product Design Concepts with the consumer group for feedback. During the session, the team updated the most preferred Product Design Concept on the fly to immediately validate the group’s feedback in real time. This provided the foundation for determining the design direction.
+6. **Product Design Concept Peer Review** - The team conducted a Peer Review of the three Product Design Concepts with the consumer group for feedback. During the session, the team updated the most preferred Product Design Concept on the fly to immediately validate the group’s feedback in real time.
 
 7. **Development Deep Dive** - Based on the feedback, the team refined the visualization and made decisions for creating a responsive design prototype using Bootstrap and Google Android design patterns and D3 Chart Library for the user interface. Coding began by utilizing the datasets and API from openFDA.
 
