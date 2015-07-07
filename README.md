@@ -1,6 +1,12 @@
-# Food Recall Dashboard
+Prototype: [http://onespring.net/projects/foodrecalls/](http://onespring.net/projects/foodrecalls/)
 
-The Food Recall Dashboard is an interactive tool that allows consumers to quickly and easily learn about food recalls by manufacturer, region, and level of severity. 
+# Food Recall Dashboard - Pool 1 Design
+
+## Introduction
+The prototype was designed and developed by [OneSpring LLC](http://onespring.net/) using open source technology, user experience best practices and OpenFDA datasets and API. The team used a Lean and Agile Scrum approach to designing and developing the prototype. To learn more about our process, view our [Design Approach](https://github.com/onespring/foodrecalls/blob/master/design_approach/OneSpring_Design_Approach.pdf) material.
+
+## Overview
+The Food Recall Dashboard is an interactive tool that allows consumers to quickly and easily learn about food recalls by manufacturer, region, and level of severity. OneSpring LLC design the 
 
 ## Background
 A multi-disciplinary team was formed to investigate how readily available data and the latest technologies could help the public become more informed about Food Recalls. After conducting user research, the team learned that consumers want a fast and simple means to learn about food product recalls that are pertinent to them. Consumers want to know what are the serious recalls, where are they happening, and who’s responsible.
@@ -39,11 +45,8 @@ Food Recall Dashboard is an open source project built using modern technologies 
 
 9. **End of Sprint Review & Push to Production** - Upon successful testing and iteration, the team conducted an End of Sprint Review to demonstrate the working prototype and supporting documentation. The team gained approval to push the code to production and post all supporting documentation.  The product backlog was updated to reflect completed User Stories and the development team calculated the team’s initial velocity.
 
-
 ## Supporting Documentation
 Additional documentation describing our 1-week Sprint from start to publish is available at the OneSpring GitHub repository under [Design Approach](https://github.com/onespring/foodrecalls/blob/master/design_approach/OneSpring_Design_Approach.pdf).
 
-
 ## Publishing the Prototype
 The easiest way to deploy the Food Recalls Dashboard prototype is to clone the entire repository and navigate to the root of the site to start using the tool. You can also download the ZIP file and place the project on a web server such as Apache or IIS.
-# foodrecalls
